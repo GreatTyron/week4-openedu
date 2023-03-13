@@ -1,0 +1,14 @@
+{
+    "name": "week4-openedu",
+    "version": "1.0.0",
+    "engines": {
+      "node": "10.19.0"
+    },
+    "main": "index.js",
+    "repository": "https://github.com/shchitaev/week4-openedu.git",
+    "author": "itmo336203",
+    "license": "MIT",
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
